@@ -112,7 +112,8 @@
 	
 	<footer>
 		<div class="ui container">
-			Desenvolvido por <a href="https://github.com/BraianF" target="_blank">Braian Gabriel Antonilli</a>.
+			Desenvolvido por <a href="https://github.com/BraianF" target="_blank">Braian Gabriel Antonilli</a>
+			e <a href="https://github.com/quinnaty/" target="_blank">Nátaly Nazario Quina</a>.
 			<br>
 			Com grande auxílio de <a href="https://github.com/rafaelsperoni" target="_blank">Profº Rafael Speroni</a>,
 			<a href="https://stackoverflow.com/" target="_blank">StackOverflow</a> e
